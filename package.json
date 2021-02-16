@@ -1,5 +1,5 @@
 {
-  "name": "napi_fftw3",
+  "name": "napi_fftw",
   "version": "1.0.0",
   "description": "do not leak memory; Also other packages are dead",
   "main": "index.js",
